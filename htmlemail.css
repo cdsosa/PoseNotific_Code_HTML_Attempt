@@ -1,0 +1,19 @@
+* {
+  font-family:arial;
+}
+
+#main-table{
+  margin:auto;
+}
+
+.icon-sections {
+ /* margin-top:-20px; */
+}
+
+#header{
+  position:relative;
+}
+
+#outro{
+  color:#788767;
+}
